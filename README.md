@@ -12,7 +12,7 @@ To use these files in your local development environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Cold-Source/Cold-Source-Game.git
+   git clone -b gamepadui --single-branch https://github.com/Cold-Source/Cold-Source-Game.git
    ```
 2. Copy the contents to your engine's working directory or link the folders accordingly.
 
